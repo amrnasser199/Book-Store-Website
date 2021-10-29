@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\new pub</_PublishTargetUrl>
+    <History>True|2021-10-13T10:34:44.2575395Z;False|2021-10-13T12:33:32.8584557+02:00;False|2021-10-13T12:32:39.0653789+02:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Book_Store.Models.BookStoreDbcontext">
+      <Value>Server=%28localdb%29\MSSQLLocalDB%3bDatabase=MyBookstoreDB%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

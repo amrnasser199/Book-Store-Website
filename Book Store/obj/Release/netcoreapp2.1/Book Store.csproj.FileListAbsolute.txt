@@ -1,0 +1,78 @@
+E:\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\appsettings.json
+E:\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\libman.json
+E:\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.deps.json
+E:\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.runtimeconfig.json
+E:\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.runtimeconfig.dev.json
+E:\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.dll
+E:\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.pdb
+E:\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.Views.dll
+E:\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.Views.pdb
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.csproj.AssemblyReference.cache
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.AssemblyInfoInputs.cache
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.AssemblyInfo.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.csproj.CoreCompileInputs.cache
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.RazorAssemblyInfo.cache
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.RazorAssemblyInfo.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.TagHelpers.input.cache
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.TagHelpers.output.cache
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.RazorCoreGenerate.cache
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Author\Create.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Author\Delete.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Author\Details.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Author\Edit.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Author\Index.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Book\Create.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Book\Delete.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Book\Details.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Book\Edit.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Book\Index.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Validation.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.RazorTargetAssemblyInfo.cache
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.RazorTargetAssemblyInfo.cs
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.Views.pdb
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.dll
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.pdb
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.genruntimeconfig.cache
+E:\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.csproj.CopyComplete
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\appsettings.json
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\libman.json
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.deps.json
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.runtimeconfig.json
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.runtimeconfig.dev.json
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.dll
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.pdb
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.Views.dll
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\bin\Release\netcoreapp2.1\Book Store.Views.pdb
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.csproj.AssemblyReference.cache
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.AssemblyInfoInputs.cache
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.AssemblyInfo.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.csproj.CoreCompileInputs.cache
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.RazorAssemblyInfo.cache
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.RazorAssemblyInfo.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.TagHelpers.input.cache
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.TagHelpers.output.cache
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.RazorCoreGenerate.cache
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Author\Create.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Author\Delete.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Author\Details.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Author\Edit.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Author\Index.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Book\Create.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Book\Delete.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Book\Details.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Book\Edit.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Book\Index.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Validation.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.RazorTargetAssemblyInfo.cache
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.RazorTargetAssemblyInfo.cs
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.Views.pdb
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.dll
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.pdb
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.genruntimeconfig.cache
+E:\final book store made by amr nasser\bookstore\Book Store\Book Store\obj\Release\netcoreapp2.1\Book Store.csproj.CopyComplete
